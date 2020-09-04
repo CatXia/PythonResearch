@@ -1,0 +1,12 @@
+# 计划学习
+## 巴拉巴拉
++ anaconda
+## 爬虫
++ scrapy
+## 自动化
++ selenium
+## 服务器
++ flask
+## 深度学习
++ TensorFlow
++ PyTorch
