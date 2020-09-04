@@ -10,3 +10,5 @@
 ## 深度学习
 + TensorFlow
 + PyTorch
++ NumPy
++ SciPy
