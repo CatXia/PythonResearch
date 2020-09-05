@@ -1,8 +1,13 @@
 # PythonResearch
 ## 概述
-研究python相关的
+研究python相关的，核心目标是深度学习相关
 ## 环境
-* MacOS
+* MacOS 10.15.6
+## 结构
++ algorithm     算法
++ document      文档
++ library       官方
+> 后续会不断学习和调整
 ## 安装
 * 安装python3.8
 * 安装Anaconda
